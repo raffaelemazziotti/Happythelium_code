@@ -1,4 +1,4 @@
- # hAPPytelium
+# hAPPytelium
 
 The hAPPytelium is a Matlab computer vision application designed for segmenting objects on the retinal pigment epithelium (RPE).
 
@@ -11,8 +11,10 @@ The hAPPytelium is a Matlab computer vision application designed for segmenting 
 
 The app reads and processes all the images in a folder and saves a .mat file with the data.
 
+## GUI Overview
 ![GUI](https://github.com/raffaelemazziotti/hAPPytelium_code/blob/main/images/GUI_1.png)
 
-[![YouTube](http://i.ytimg.com/vi/-TkUcznIcD0/hqdefault.jpg)](https://www.youtube.com/watch?v=-TkUcznIcD0)
 
+## Video Tutorial
+https://github.com/user-attachments/assets/6560c9ef-7936-4289-b047-c193340df4e6
 
