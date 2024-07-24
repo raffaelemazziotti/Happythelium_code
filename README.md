@@ -11,5 +11,5 @@ The hAPPytelium is a Matlab computer vision application designed for segmenting 
 
 The app reads and processes all the images in a folder and saves a .mat file with the data.
 
-  
+
 
